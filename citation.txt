@@ -1,0 +1,6 @@
+@article{REPO364,
+    author = "Wu, Jiahao and Fan, Wenqi and Chen, Jingfan and Liu, Shengcai and Li, Qing and Tang, Ke Tang",
+    booktitle = "CIKM '22: Proceedings of the 31st ACM International Conference on Information \& Knowledge Management",
+    title = "{Disentangled Contrastive Learning for Social Recommendation}",
+    year = "2022"
+}
